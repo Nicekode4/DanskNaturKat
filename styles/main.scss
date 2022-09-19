@@ -62,6 +62,11 @@ header{
 #galleri{
     display: grid;
     grid-template-columns: 33% 33% 33%;
+    gap: 1em;
+    img{
+      width: 33vw;
+      height: 20vw;
+    }
     }
         #form{
         display: flex;
@@ -75,8 +80,7 @@ header{
             margin-left: 1vh;
         }
     } 
-    }
-
+    
 .lokationContainer{
   display: flex;
   justify-content: center;

@@ -57,6 +57,11 @@ header nav ul li a:hover {
 #galleri {
   display: grid;
   grid-template-columns: 33% 33% 33%;
+  gap: 1em;
+}
+#galleri img {
+  width: 33vw;
+  height: 20vw;
 }
 
 #form {
