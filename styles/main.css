@@ -4,6 +4,7 @@ body {
 
 footer ul {
   display: flex;
+  justify-content: center;
 }
 footer ul li {
   margin: 2vh;
