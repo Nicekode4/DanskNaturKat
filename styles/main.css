@@ -47,4 +47,9 @@ header nav ul li a:hover {
 .mainArticle p {
   width: 70%;
   font-size: 20px;
+}
+
+#galleri {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
 }/*# sourceMappingURL=main.css.map */
