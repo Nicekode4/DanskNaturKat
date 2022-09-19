@@ -57,4 +57,28 @@ header nav ul li a:hover {
 #galleri {
   display: grid;
   grid-template-columns: 33% 33% 33%;
+}
+
+.lokationContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 1%;
+  padding-top: 1%;
+  border-top: 1px solid rgba(0, 0, 0, 0.1803921569);
+}
+.lokationContainer figure {
+  margin: 0;
+  margin-right: 5%;
+}
+.lokationContainer figure img {
+  width: 400px;
+}
+.lokationContainer h2 {
+  font-size: 30px;
+  font-weight: 100;
+  margin: 0;
+}
+.lokationContainer li {
+  margin-top: 2%;
+  font-size: 20px;
 }/*# sourceMappingURL=main.css.map */
