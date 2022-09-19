@@ -1,1 +1,6 @@
-/*# sourceMappingURL=main.css.map */
+footer ul {
+  display: flex;
+}
+footer ul li {
+  margin: 2vh;
+}/*# sourceMappingURL=main.css.map */
