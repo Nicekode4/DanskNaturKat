@@ -63,7 +63,7 @@ header{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     }
-    #form{
+        #form{
         display: flex;
         justify-content: center;
        form{
@@ -76,4 +76,27 @@ header{
         }
     } 
     }
-    
+
+.lokationContainer{
+  display: flex;
+  justify-content: center;
+  margin-top: 1%;
+  padding-top: 1%;
+  border-top: 1px solid c.$borderBlack;
+    figure{
+      margin: 0;
+      margin-right: 5%;
+        img{
+          width: 400px;
+        }
+    }
+    h2{
+      font-size: 30px;
+      font-weight: 100;
+      margin: 0;
+    }
+    li{
+      margin-top: 2%;
+      font-size: 20px;
+    }
+}
