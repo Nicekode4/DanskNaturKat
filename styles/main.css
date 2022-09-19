@@ -3,4 +3,8 @@ footer ul {
 }
 footer ul li {
   margin: 2vh;
+}
+footer ul li a {
+  color: black;
+  text-decoration: none;
 }/*# sourceMappingURL=main.css.map */
