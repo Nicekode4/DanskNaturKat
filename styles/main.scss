@@ -63,3 +63,17 @@ header{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     }
+    #form{
+        display: flex;
+        justify-content: center;
+       form{
+        input:first-of-type{
+            margin-bottom: 1vh;
+            display: block;
+        }
+        button{
+            margin-left: 1vh;
+        }
+    } 
+    }
+    

@@ -52,9 +52,21 @@ header nav ul li a:hover {
 }
 .mainArticle figure {
   margin: 0;
-  }
+}
 
 #galleri {
   display: grid;
   grid-template-columns: 33% 33% 33%;
-/*# sourceMappingURL=main.css.map */
+}
+
+#form {
+  display: flex;
+  justify-content: center;
+}
+#form form input:first-of-type {
+  margin-bottom: 1vh;
+  display: block;
+}
+#form form button {
+  margin-left: 1vh;
+}/*# sourceMappingURL=main.css.map */
