@@ -3,4 +3,20 @@ footer ul {
 }
 footer ul li {
   margin: 2vh;
+}
+
+.mainArticle {
+  display: flex;
+  width: 1200px;
+  margin: auto;
+}
+.mainArticle h1 {
+  font-size: 40px;
+  font-weight: 200;
+}
+.mainArticle p {
+  width: 70%;
+}
+.mainArticle img {
+  filter: grayscale(100%);
 }/*# sourceMappingURL=main.css.map */

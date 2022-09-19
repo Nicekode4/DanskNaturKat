@@ -6,3 +6,20 @@ footer{
     }
 }  
 }
+
+
+.mainArticle{
+  display:flex;
+  width: 1200px;
+  margin: auto;
+    h1{
+      font-size: 40px;
+      font-weight: 200;
+    }
+    p{
+      width: 70%;
+    }
+    img{
+      filter: grayscale(100%);
+    }
+}
