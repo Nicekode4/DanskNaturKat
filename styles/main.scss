@@ -58,4 +58,8 @@ header{
     figure{
       margin: 0;
     }
-}
+  }
+#galleri{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    }
