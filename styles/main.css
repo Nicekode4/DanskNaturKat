@@ -52,9 +52,14 @@ header nav ul li a:hover {
 }
 .mainArticle figure {
   margin: 0;
-  }
+}
 
 #galleri {
   display: grid;
   grid-template-columns: 33% 33% 33%;
-/*# sourceMappingURL=main.css.map */
+  gap: 1em;
+}
+#galleri img {
+  width: 33vw;
+  height: 20vw;
+}/*# sourceMappingURL=main.css.map */

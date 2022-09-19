@@ -62,4 +62,9 @@ header{
 #galleri{
     display: grid;
     grid-template-columns: 33% 33% 33%;
+    gap: 1em;
+    img{
+      width: 33vw;
+      height: 20vw;
+    }
     }
