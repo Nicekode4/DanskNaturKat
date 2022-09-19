@@ -4,11 +4,10 @@ footer ul {
 footer ul li {
   margin: 2vh;
 }
-
 footer ul li a {
-color: black;
-text-decoration: none;
-
+  color: black;
+  text-decoration: none;
+}
 
 .mainArticle {
   display: flex;
@@ -25,7 +24,4 @@ text-decoration: none;
 }
 .mainArticle img {
   filter: grayscale(100%);
-  
-
-
 }/*# sourceMappingURL=main.css.map */
