@@ -68,3 +68,39 @@ header{
       height: 20vw;
     }
     }
+        #form{
+        display: flex;
+        justify-content: center;
+       form{
+        input:first-of-type{
+            margin-bottom: 1vh;
+            display: block;
+        }
+        button{
+            margin-left: 1vh;
+        }
+    } 
+    
+.lokationContainer{
+  display: flex;
+  justify-content: center;
+  margin-top: 1%;
+  padding-top: 1%;
+  border-top: 1px solid c.$borderBlack;
+    figure{
+      margin: 0;
+      margin-right: 5%;
+        img{
+          width: 400px;
+        }
+    }
+    h2{
+      font-size: 30px;
+      font-weight: 100;
+      margin: 0;
+    }
+    li{
+      margin-top: 2%;
+      font-size: 20px;
+    }
+}

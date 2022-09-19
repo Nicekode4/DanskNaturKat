@@ -62,4 +62,40 @@ header nav ul li a:hover {
 #galleri img {
   width: 33vw;
   height: 20vw;
+}
+
+#form {
+  display: flex;
+  justify-content: center;
+}
+#form form input:first-of-type {
+  margin-bottom: 1vh;
+  display: block;
+}
+#form form button {
+  margin-left: 1vh;
+}
+
+.lokationContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 1%;
+  padding-top: 1%;
+  border-top: 1px solid rgba(0, 0, 0, 0.1803921569);
+}
+.lokationContainer figure {
+  margin: 0;
+  margin-right: 5%;
+}
+.lokationContainer figure img {
+  width: 400px;
+}
+.lokationContainer h2 {
+  font-size: 30px;
+  font-weight: 100;
+  margin: 0;
+}
+.lokationContainer li {
+  margin-top: 2%;
+  font-size: 20px;
 }/*# sourceMappingURL=main.css.map */
