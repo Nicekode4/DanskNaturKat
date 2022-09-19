@@ -45,12 +45,17 @@ header{
   display:flex;
   width: 1200px;
   margin: auto;
+  margin-top: 3%;
     h1{
       font-size: 40px;
       font-weight: 200;
+      margin: 0;
     }
     p{
-      width: 70%;
+      width: 80%;
       font-size: 20px;
+    }
+    figure{
+      margin: 0;
     }
 }
