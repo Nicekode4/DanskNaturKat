@@ -58,6 +58,7 @@ header nav ul li a:hover {
   display: grid;
   grid-template-columns: 33% 33% 33%;
 }
+
 #form {
   display: flex;
   justify-content: center;
@@ -68,7 +69,7 @@ header nav ul li a:hover {
 }
 #form form button {
   margin-left: 1vh;
-
+}
 
 .lokationContainer {
   display: flex;
@@ -92,5 +93,4 @@ header nav ul li a:hover {
 .lokationContainer li {
   margin-top: 2%;
   font-size: 20px;
-
 }/*# sourceMappingURL=main.css.map */
